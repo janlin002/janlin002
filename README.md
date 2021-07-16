@@ -2,7 +2,7 @@
 
 ## Tech Stack
 ### Frontend
-React, Redux, React-Hooks, React-Native, Vue, Vuex, Javascript, HTML5, Css, Scss, bootstrap, Ant-Design
+React, Redux, React-Hooks, React-Native, Vue, Vuex, Javascript, HTML5, CSS, SCSS, Bootstrap, Ant-Design
 ### Backend
 Node.js, Python
 
