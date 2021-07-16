@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-React, Redux, React-Hooks, Javascript, HTML5, Css, Scss, bootstrap, Ant-Design
+React, Redux, React-Hooks, Vue, Vuex, Javascript, HTML5, Css, Scss, bootstrap, Ant-Design
 
 ## Link
 [Github](https://github.com/janlin002),
