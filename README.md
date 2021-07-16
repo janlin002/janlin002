@@ -2,9 +2,9 @@
 
 ## Tech Stack
 ### Frontend
-React, Redux, React-Hooks, *React-Native*, Vue, Vuex, Javascript, HTML5, Css, Scss, bootstrap, Ant-Design
+React, Redux, React-Hooks, React-Native, Vue, Vuex, Javascript, HTML5, Css, Scss, bootstrap, Ant-Design
 ### Backend
-*Node.js*, *Python*
+Node.js, Python
 
 ## Link
 [Github](https://github.com/janlin002),
